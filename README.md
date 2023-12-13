@@ -1,7 +1,8 @@
 <h1 align="center"><b>Olá 👋, me chamo Lucca Couto Barberato</b></h1>
 
-[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)">](https://www.linkedin.com/in/luccacoutobarberato/)
-[![GitHub followers](https://img.shields.io/github/followers/luccacb16.svg?style=social&label=Follow)](https://github.com/luccacb16?tab=followers)
+- 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 6/8 semesters, due to early 2025
+- 🤩 Passionate about Data Science and Machine Learning
+- 👀 Looking for an internship!
 
 <h2 align="left"><b>Tecnologias</b></h2>
 
@@ -16,5 +17,14 @@
 <h4 align="left"><i>Others</i><h4>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
+
+<h2><b>Contact</b></h2>
+
+<a href = "mailto:lucca.barberato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luccacoutobarberato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<h2><b>Stats</b></h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccacb16&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luccacb16&show_icons=true&theme=dark&locale=en" alt="luccacb16" /></p>
