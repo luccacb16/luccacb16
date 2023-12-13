@@ -3,6 +3,7 @@
 - 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 6/8 semesters, due to early 2025
 - 🤩 Passionate about Data Science and Machine Learning
 - 👀 Looking for an internship!
+- ⏰ Currently studying Computer Vision
 
 <h2 align="left"><b>Technologies and Tools</b></h2>
 
