@@ -1,4 +1,4 @@
-<h1 align="center"><b>Olá 👋, me chamo Lucca Couto Barberato</b></h1>
+<h1 align="center"><b>Hey 👋, I'm Lucca Couto Barberato</b></h1>
 
 - 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 6/8 semesters, due to early 2025
 - 🤩 Passionate about Data Science and Machine Learning
