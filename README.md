@@ -4,7 +4,7 @@
 - 🤩 Passionate about Data Science and Machine Learning
 - 👀 Looking for an internship!
 
-<h2 align="left"><b>Tecnologias</b></h2>
+<h2 align="left"><b>Technologies and Tools</b></h2>
 
 <h3 align="left"><i>Data Science + AI/ML</i><h3>
 
