@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hey 👋, I'm Lucca Couto Barberato</b></h1>
 
-- 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 7/8 semesters, due to graduate mar/2025
+- 🎓 Graduating in Computer Science at [UFSCar](https://www.ufscar.br/) - 8/9 semesters, due to graduate sep/2025
 - 🤩 Passionate about Data Science and Machine Learning
 - ⏰ Currently studying Computer Vision
 
